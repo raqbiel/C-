@@ -1,0 +1,11 @@
+C:\Users\Paweł\Documents\Visual Studio 2015\Projects\Jarvis\Jarvis\bin\Release\Jarvis.exe.config
+C:\Users\Paweł\Documents\Visual Studio 2015\Projects\Jarvis\Jarvis\bin\Release\Jarvis.exe
+C:\Users\Paweł\Documents\Visual Studio 2015\Projects\Jarvis\Jarvis\bin\Release\Jarvis.pdb
+C:\Users\Paweł\Documents\Visual Studio 2015\Projects\Jarvis\Jarvis\obj\Release\Jarvis.Form1.resources
+C:\Users\Paweł\Documents\Visual Studio 2015\Projects\Jarvis\Jarvis\obj\Release\Jarvis.Properties.Resources.resources
+C:\Users\Paweł\Documents\Visual Studio 2015\Projects\Jarvis\Jarvis\obj\Release\Jarvis.csproj.GenerateResource.Cache
+C:\Users\Paweł\Documents\Visual Studio 2015\Projects\Jarvis\Jarvis\obj\Release\Jarvis.exe
+C:\Users\Paweł\Documents\Visual Studio 2015\Projects\Jarvis\Jarvis\obj\Release\Jarvis.pdb
+C:\Users\Paweł\Documents\Visual Studio 2015\Projects\Jarvis\Jarvis\obj\Release\Jarvis.csprojResolveAssemblyReference.cache
+C:\Users\Paweł\Documents\Visual Studio 2015\Projects\Jarvis\Jarvis\bin\Release\WatiN.Core.dll
+C:\Users\Paweł\Documents\Visual Studio 2015\Projects\Jarvis\Jarvis\obj\Release\Jarvis.Form2.resources
